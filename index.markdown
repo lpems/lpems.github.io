@@ -9,7 +9,8 @@ layout: default
 ***May 11 - May 13, 2020 - Catania, Italy***
 
 #### Submission page and information
-Submit at [https://easychair.org/conferences/?conf=lpems20](https://easychair.org/conferences/?conf=lpems20)
+Submit at [https://easychair.org/conferences/?conf=lpems20](https://easychair.org/conferences/?conf=lpems20).
+
 Proceedings from the workshop will be published by ACM along with regular Computing Frontiers papers.
 
 #### Important dates
